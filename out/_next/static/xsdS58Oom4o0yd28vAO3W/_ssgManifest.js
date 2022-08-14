@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F","\u002Fideas\u002F[viewIdea]","\u002Fideas\u002Frequests\u002F[index]","\u002Fideas\u002Frequests\u002Fadd\u002F[add]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
